@@ -1,4 +1,4 @@
-# React & Redux starter using Webpack 2
+# Somewhat excessive Webpack config
 
 Run dev server with live reload
 ```
