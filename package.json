@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dubbha/six-web-pack.git"
+    "url": "https://github.com/dubbha/six-web-pack.git"
   },
   "scripts": {
     "start": "npm run dev",
